@@ -1,0 +1,15 @@
+{
+  "name": "cs570-asg2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rpn_calculator.js",
+  "scripts": {
+    "build": "echo 'Build complete!'",
+    "start": "node rpn_calculator.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
